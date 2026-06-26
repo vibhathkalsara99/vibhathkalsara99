@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vibhath%20Kalsara&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Undergraduate%20%40%20University%20Of%20Moratuwa&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="assets/banner.png" alt="Vibhath Kalsara Banner" width="100%" />
+</p>
 
 
 
