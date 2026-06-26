@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vibhath Kalsara Banner" width="100%" />
+  <img src="assets/banner2.png" alt="Vibhath Kalsara Banner" width="100%" />
 </p>
 
 
