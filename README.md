@@ -40,7 +40,7 @@ Focused on mastering the complete software lifecycle, with practical experience 
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/vibhath-kalsara-118701365">
+  <a href="https://www.linkedin.com/in/vibhath-kalsara">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://wa.me/940777535012">
