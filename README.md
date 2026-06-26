@@ -1,8 +1,11 @@
 <p align="center">
   <img src="assets/banner2.png" alt="Vibhath Kalsara Banner" width="100%" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Devops+%26+Cloud+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Devops+%26+Cloud+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 📌 About Me
 I'm an IT Undergraduate at the University of Moratuwa with a deep passion for the entire technical spectrum, specializing in,
