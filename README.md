@@ -41,7 +41,7 @@ Focused on mastering the complete software lifecycle, with practical experience 
   <a href="https://www.linkedin.com/in/vibhath-kalsara">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://wa.me/940777535012">
+  <a href="https://wa.me/940718642069">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>
   <a href="mailto:vibhathkrathnayaka25@gmail.com">
